@@ -5,7 +5,7 @@ import ru.twentyone.school.GBType;
 import java.util.HashSet;
 import java.util.Set;
 
-public abstract class AbstractCpu {
+public class Cpu {
 
     protected Set<RegisterDesc> registers;
 

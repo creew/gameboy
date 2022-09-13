@@ -1,4 +1,4 @@
-package ru.twentyone.school;
+package ru.twentyone.school.ram;
 
 import org.springframework.stereotype.Component;
 

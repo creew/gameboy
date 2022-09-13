@@ -1,2 +1,4 @@
-package ru.twentyone.school.cpu;public class Operation {
+package ru.twentyone.school.cpu;
+
+public enum OperationDesc {
 }
